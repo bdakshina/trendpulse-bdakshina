@@ -1,0 +1,69 @@
+post_id,title,category,score,num_comments,author,collected_at
+47648828,"Eight years of wanting, three months of building with AI",technology,31,4,brilee,2026-04-05 20:14:39
+47640728,Show HN: A game where you build a GPU,technology,837,169,Jaso1024,2026-04-05 20:14:40
+47645432,Introduction to Computer Music (2009) [pdf],technology,184,57,luu,2026-04-05 20:14:42
+47640875,"LLM Wiki – example of an ""idea file""",technology,243,77,tamnd,2026-04-05 20:14:44
+47639779,"Show HN: sllm – Split a GPU node with other developers, unlimited tokens",technology,170,84,jrandolf,2026-04-05 20:14:48
+47637757,Embarrassingly simple self-distillation improves code generation,technology,616,185,Anon84,2026-04-05 20:14:50
+47633396,Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw,technology,1052,801,firloop,2026-04-05 20:14:52
+47633855,Claude Code Found a Linux Vulnerability Hidden for 23 Years,technology,399,253,eichin,2026-04-05 20:14:56
+47624645,Show HN: Apfel – The free AI already on your Mac,technology,721,147,franze,2026-04-05 20:15:04
+47618223,We replaced RAG with a virtual filesystem for our AI documentation assistant,technology,395,148,denssumesh,2026-04-05 20:15:07
+47638147,"Show HN: Pluck – Copy any UI from any website, paste it into AI coding tools",technology,17,17,bring-shrubbery,2026-04-05 20:15:11
+47641788,Iranian missile blitz takes down AWS data centers in Bahrain and Dubai,technology,170,152,lschueller,2026-04-05 20:15:12
+47645468,Writing Lisp is AI resistant and I'm sad,technology,70,77,djha-skin,2026-04-05 20:15:13
+47612724,Lemonade by AMD: a fast and open source local LLM server using GPU and NPU,technology,566,113,AbuAssar,2026-04-05 20:15:14
+47616157,Software never had a soul,technology,19,17,firloop,2026-04-05 20:15:16
+47633640,How to Write Unmaintainable Code (1999),technology,53,17,downbad_,2026-04-05 20:15:17
+47615490,Artemis computer running two instances of MS outlook; they can't figure out why,technology,492,358,mooreds,2026-04-05 20:15:18
+47635033,Show HN: Travel Hacking Toolkit – Points search and trip planning with AI,technology,92,37,borski,2026-04-05 20:15:25
+47647283,"LinkedIn scans for 6k Chrome extensions, collects data",technology,5,1,anonhaven,2026-04-05 20:15:26
+47587339,DCJ11Hack+ – DEC PDP/11 based homebrew computer,technology,30,1,zdw,2026-04-05 20:15:28
+47645976,AI that copied musical artist files copyright claim against artist [updated],technology,60,15,josephcsible,2026-04-05 20:15:29
+47647038,An AI bot invited me to its party in Manchester. It was a pretty good night,technology,8,1,mellosouls,2026-04-05 20:15:30
+47625244,Critics say EU risks ceding control of its tech laws under U.S. pressure,technology,240,138,nickslaughter02,2026-04-05 20:15:31
+47642552,Nandgame – Build a Computer from Scratch,technology,5,0,Vortigaunt,2026-04-05 20:15:34
+47620933,Memo: A language that remembers only the last 12 lines of code,technology,57,36,notem,2026-04-05 20:15:35
+47645817,How Pope Leo is pushing back on divine justification of war,worldnews,45,30,1659447091,2026-04-05 20:15:37
+47627419,The Axios supply chain attack used individually targeted social engineering,worldnews,46,11,cmitsakis,2026-04-05 20:15:37
+47648177,China Edges Past U.S. in Global Approval Ratings,worldnews,5,0,KnuthIsGod,2026-04-05 20:15:38
+47615756,Renewables reached nearly 50% of global electricity capacity last year,worldnews,295,147,Growtika,2026-04-05 20:15:41
+47618221,The Australian government has announced gambling advertising reforms,worldnews,133,101,gostsamo,2026-04-05 20:16:08
+47601310,"Iran war sparks renewables boom as Europeans rush to buy solar, heat pumps, EVs",worldnews,86,120,vrganj,2026-04-05 20:16:49
+47641615,Sopwith – 1984 Game (2000),sports,95,42,elvis70,2026-04-05 20:17:19
+47633676,"Extra usage credit for Pro, Max, and Team plans",sports,64,61,angst,2026-04-05 20:17:19
+47623053,"Show HN: Minimal Brain Teaser Web Game (Handcrafted, No AI)",sports,25,14,arttaboi,2026-04-05 20:17:19
+47632901,Sandbox Strategy Game for AI,sports,6,0,Stefan_Golas,2026-04-05 20:17:19
+47621557,Show HN: SkiFlee (an HTML5 game),sports,8,9,BSTRhino,2026-04-05 20:17:19
+47629485,A case study in testing with 100+ Claude agents in parallel,science,53,46,thejash,2026-04-05 20:17:21
+47632504,"""Cognitive surrender"" leads AI users to abandon logical thinking, research finds",science,96,39,Bender,2026-04-05 20:17:21
+47645696,Towards end-to-end automation of AI research,science,6,0,hardmaru,2026-04-05 20:17:21
+47588349,GitHub Monaspace Case Study,science,146,50,homebrewer,2026-04-05 20:17:21
+47624879,Switzerland hosts 'CERN of semiconductor research',science,34,6,teleforce,2026-04-05 20:17:21
+47609883,"Salomi, a research repo on extreme low-bit transformer quantization",science,12,4,Edward9055,2026-04-05 20:17:21
+47609725,Show HN: NASA Artemis II Mission Timeline Tracker,science,93,17,AustinDev,2026-04-05 20:17:21
+47637013,MIT study challenges AI job apocalypse narrative,science,5,2,TMWNN,2026-04-05 20:17:21
+47646504,Show HN: OsintRadar – Curated directory for osint tools,entertainment,29,4,lexalizer,2026-04-05 20:17:23
+47613118,Show HN: I built a small app for FSI German Course,entertainment,43,13,syedmsawaid,2026-04-05 20:17:23
+47642601,Show HN: M. C. Escher spiral in WebGL inspired by 3Blue1Brown,entertainment,119,19,laszlokorte,2026-04-05 20:17:23
+47639303,"Show HN: I made open source, zero power PCB hackathon badges",entertainment,129,11,kaipereira,2026-04-05 20:17:23
+47639567,Show HN: TurboQuant-WASM – Google's vector quantization in the browser,entertainment,156,6,teamchong,2026-04-05 20:17:23
+47645025,"Show HN: Contrapunk – Real-time counterpoint harmony from guitar input, in Rust",entertainment,81,36,waveywaves,2026-04-05 20:17:23
+47625952,Show HN: I built a frontpage for personal blogs,entertainment,762,191,ramkarthikk,2026-04-05 20:17:23
+47642275,"Netflix must refund customers for years of price hikes, Italian court rules",entertainment,58,6,xbmcuser,2026-04-05 20:17:23
+47626598,Show HN: ctx – an Agentic Development Environment (ADE),entertainment,50,52,luca-ctx,2026-04-05 20:17:23
+47640770,Show HN: DocMason – Agent Knowledge Base for local complex office files,entertainment,8,0,Jet_Xu,2026-04-05 20:17:23
+47630109,Firm boosts H.264 streaming license fees from $100k up to staggering $4.5M,entertainment,189,74,MaximilianEmel,2026-04-05 20:17:23
+47638532,"Show HN: Ownscribe – local meeting transcription, summarization and search",entertainment,12,0,paberr,2026-04-05 20:17:23
+47606560,"Show HN: Dull – Instagram Without Reels, YouTube Without Shorts (iOS)",entertainment,152,117,kasparnoor,2026-04-05 20:17:23
+47632692,Show HN: Mtproto.zig – High-performance Telegram proxy with DPI evasion,entertainment,21,14,slp3r,2026-04-05 20:17:23
+47621438,Show HN: Made a little Artemis II tracker,entertainment,150,57,codingmoh,2026-04-05 20:17:23
+47631030,Show HN: Ismcpdead.com – Live dashboard tracking MCP adoption and sentiment,entertainment,35,23,sagirodin,2026-04-05 20:17:23
+47612277,Almighty Lisp: Lisp and Emacs Essentials Book,entertainment,75,4,nemoniac,2026-04-05 20:17:23
+47589856,Show HN: Postgres extension for BM25 relevance-ranked full-text search,entertainment,202,56,tjgreen,2026-04-05 20:17:23
+47639207,Show HN: Tokencap – Token budget enforcement across your AI agents,entertainment,7,0,pykul,2026-04-05 20:17:23
+47612321,Show HN: I built a DNS resolver from scratch in Rust – no DNS libraries,entertainment,113,65,rdme,2026-04-05 20:17:23
+47615844,Show HN: A P2P messenger with dual network modes (Fast and Tor),entertainment,39,22,Realman78,2026-04-05 20:17:23
+47593422,"Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs",entertainment,425,151,PrismML,2026-04-05 20:17:23
+47617217,Show HN: I tested 15 free AI models at building real software on a $25/year VPS,entertainment,36,7,j0rg3,2026-04-05 20:17:23
+47632750,Show HN: TinyOS – A minimalist RTOS for Cortex-M written in C,entertainment,100,43,hpscript,2026-04-05 20:17:23
